@@ -38,6 +38,8 @@ instead of requiring `cgo` and `alsa-lib`.
 
 ## License
 
-sgheme is Copyright (c) 2015 Bernerd Schaefer.
+applemediakeyd is Copyright (c) 2015 Bernerd Schaefer.
 It is free software, and may be redistributed
 under the terms specified in the [LICENSE] file.
+
+[LICENSE]: LICENSE
